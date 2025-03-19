@@ -1,0 +1,19 @@
+Items {
+	background: $boost;
+	height: 3;
+	margin: 1;
+	min-width: 50;
+	padding: 1;
+}
+
+Button {
+	width: 16;
+}
+
+#done {
+	dock: left;
+	opacity: 50%;
+}
+#remove {
+	dock: right;
+}
