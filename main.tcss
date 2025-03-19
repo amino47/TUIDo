@@ -10,10 +10,10 @@ Button {
 	width: 16;
 }
 
-#done {
-	dock: left;
+.done {
 	opacity: 50%;
 }
 #remove_button {
 	dock: right;
 }
+
