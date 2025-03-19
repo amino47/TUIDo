@@ -1,5 +1,6 @@
 from textual.app import App, ComposeResult
-from textual.widgets import Footer, Header, Checkbox, Button, VerticalScroll, HorizonalGroup
+from textual.widgets import Footer, Header, Checkbox, Button
+from textual.containers import VerticalScroll, HorizonalGroup
 from textual.reactive import reactive
 
 class TUIDo(App):
